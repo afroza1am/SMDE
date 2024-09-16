@@ -1,0 +1,16 @@
+NAME : SOCIAL MEADIA DATA EXTRACTOR
+
+FUNCTIONS : 
+
+--> BY ONLY USERNAME : 1. Download posts and reels.
+                       2. Download profile picture.
+                       3. Text files of captions.
+                       4. Posts renamed with date of posting.
+                       5. User's whole info : bio, followers and following count.
+
+--> BY USERNAME & PASSWORD : 1. Download posts and reels.
+                             2. Download profile picture.
+                             3. Text files of captions.
+                             4. Posts renamed with date of posting.
+                             5. User's whole info : bio, followers and following count.
+                             6. Text file of followers and following list.
